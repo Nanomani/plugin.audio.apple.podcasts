@@ -1,0 +1,58 @@
+# Kodi Media Center language file
+# Addon Name: Apple Podcasts
+# Addon id: plugin.video.apple.podcasts
+# Addon Provider: Tristan Fischer
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: https://forum.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Team-Kodi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30003"
+msgid "My Podcasts"
+msgstr "Mis Podcasts"
+
+msgctxt "#30004"
+msgid "Search"
+msgstr "Buscar"
+
+msgctxt "#30007"
+msgid "No episodes found!"
+msgstr "¡No se encontraron episodios!"
+
+msgctxt "#30010"
+msgid "Add to "My Podcasts""
+msgstr "Añadir a "Mis Podcasts""
+
+msgctxt "#30011"
+msgid "Remove from "My Podcasts""
+msgstr "Eliminar de "Mis Podcasts""
+
+msgctxt "#30100"
+msgid "Podcasts: Force ViewMode to Thumbnail"
+msgstr "Podcasts: Forzar vista en Miniaturas"
+
+msgctxt "#30101"
+msgid "Podcast-Items: Force ViewMode to Thumbnail"
+msgstr "Podcasts-Items: Forzar vista en Miniaturas"
+
+msgctxt "#30102"
+msgid "Country and Language"
+msgstr "Pais e Idioma"
+
+msgctxt "#30104"
+msgid "Podcasts to show in search (max 200)"
+msgstr "Podcasts a mostrar en la búsqueda (max. 200)"
+
+msgctxt "#30200"
+msgid "Network Error"
+msgstr "Error en la conexión"
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30201">
+		<setting id="num_podcasts_search" type="number" label="30104" default="100"/>
+		<setting id="image_quality" type="labelenum" label="30105" values="100x100|200x200|300x300|600x600" default="600x600" />
+		<setting id="country" type="labelenum" label="30102" values="AU|BE|BG|BR|CA|CH|CL|CN|DE|DK|ES|FI|FR|GB|GR|IT|JP|KR|LU|MX|NL|NO|PL|PT|RO|RU|SE|TR|US" default="US" />
+	</category>
+</settings>

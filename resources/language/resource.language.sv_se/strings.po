@@ -1,0 +1,58 @@
+# Kodi Media Center language file
+# Addon Name: Apple Podcasts
+# Addon id: plugin.video.apple.podcasts
+# Addon Provider: Tristan Fischer
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: https://forum.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Team-Kodi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30003"
+msgid "My Podcasts"
+msgstr "Mina podcasts"
+
+msgctxt "#30004"
+msgid "Search"
+msgstr "Sök"
+
+msgctxt "#30007"
+msgid "No episodes found!"
+msgstr "Inga avsnitt hittades!"
+
+msgctxt "#30010"
+msgid "Add to "My Podcasts""
+msgstr "Lägg till i "Mina podcasts""
+
+msgctxt "#30011"
+msgid "Remove from "My Podcasts""
+msgstr "Ta bort från "Mina podcasts""
+
+msgctxt "#30100"
+msgid "Podcasts: Force ViewMode to Thumbnail"
+msgstr "Podcasts: Tvinga visningsläge till miniatyrer"
+
+msgctxt "#30101"
+msgid "Podcast-Items: Force ViewMode to Thumbnail"
+msgstr "Podcasts-objekt: Tvinga visningsläge till miniatyrer"
+
+msgctxt "#30102"
+msgid "Country and Language"
+msgstr "iTunes-land och språk"
+
+msgctxt "#30104"
+msgid "Podcasts to show in search (max 200)"
+msgstr "Podcasts som visas i sökning (max 200)"
+
+msgctxt "#30200"
+msgid "Network Error"
+msgstr "Nätverksfel"
+

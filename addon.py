@@ -394,7 +394,7 @@ def _add_podcasts(podcasts, cache=True):
         items.append((url, li, True))
 
     xbmcplugin.setContent(HANDLE, 'videos')
-    xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_NONE)
+    # xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_NONE)
     xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_LABEL)
     xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_DATE)
     xbmcplugin.addDirectoryItems(HANDLE, items, len(items))
@@ -448,15 +448,16 @@ def _add_podcast_items(podcast_id, podcast_items, podcast_title='', podcast_genr
 
     xbmcplugin.setContent(HANDLE, 'videos')
     # DATE first → default sort; other options as secondary.
-    xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_NONE)
+    # xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_NONE)
     xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_DATE)
     xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_LABEL)
     xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_DURATION)
     xbmcplugin.addSortMethod(HANDLE, xbmcplugin.SORT_METHOD_SIZE)
     xbmcplugin.addDirectoryItems(HANDLE, items, len(items))
     xbmcplugin.endOfDirectory(HANDLE)
+    
     # Set descending direction so the most recent episodes appear first.
-    xbmc.executebuiltin('Container.SetSortDirection(Descending)')
+    # xbmc.executebuiltin('Container.SetSortDirection(Descending)')
 
 
 def _get_country():

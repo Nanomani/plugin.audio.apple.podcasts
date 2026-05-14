@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.apple.podcasts" name="Apple Podcasts" version="1.2.0" provider-name="Tristan Fischer">
+<addon id="plugin.audio.apple.podcasts" name="Apple Podcasts" version="1.2.1" provider-name="Tristan Fischer">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.feedparser" version="3.0.0"/>
@@ -69,31 +69,5 @@
         <description lang="sk_SK">Tento doplnok Vám umožní prehliadať a vyhľadávať v tisícoch voľných Podcast-ov.[CR]Môžete zároveň hľadať konkrétny podcast podľa mena. Zároveň môžete cez kontextové menu spravovať zoznam "Moje Podcast-y".</description>
         <description lang="sv_SE">Detta tillägg låter dig bläddra och söka efter tusentals podcasts.[CR]Du kan också söka efter specifika podcasts genom namn.[CR]Det är också möjligt att hantera "Mina podcasts"-listan via innehållsmenyn.</description>
         <description lang="zh_CN">本插件可浏览和查找上千个免费播客。[CR]你可以按名字搜索播客。[CR]还可以通过上下文菜单管理"我的播客"列表。</description>
-        <disclaimer lang="be_BY">NO iTunes required!</disclaimer>
-        <disclaimer lang="bg_BG">НЕ изисква iTunes!</disclaimer>
-        <disclaimer lang="ca_ES">No requereix d'iTunes!</disclaimer>
-        <disclaimer lang="da_DK">iTunes er ikke nødvendig!</disclaimer>
-        <disclaimer lang="de_DE">Kein iTunes benötigt!</disclaimer>
-        <disclaimer lang="el_GR">Δεν απαιτείται iTunes!</disclaimer>
-        <disclaimer lang="en_GB">No iTunes required!</disclaimer>
-        <disclaimer lang="en_US">No iTunes required!</disclaimer>
-        <disclaimer lang="es_ES">iTunes no es necesario!</disclaimer>
-        <disclaimer lang="fi_FI">iTunesia ei vaadita!</disclaimer>
-        <disclaimer lang="fr_FR">iTunes non requis !</disclaimer>
-        <disclaimer lang="fr_CA">iTunes n'est pas nécessaire !</disclaimer>
-        <disclaimer lang="gl_ES">Non se require o iTunes!</disclaimer>
-        <disclaimer lang="he_IL">לא נדרש iTunes!</disclaimer>
-        <disclaimer lang="hr_HR">iTunes nije potreban!</disclaimer>
-        <disclaimer lang="hu_HU">iTunes nem szükséges!</disclaimer>
-        <disclaimer lang="it_IT">iTunes non è necessario!</disclaimer>
-        <disclaimer lang="ko_KR">iTunes 필요 없음!</disclaimer>
-        <disclaimer lang="lt_LT">iTunes nereikalingas!</disclaimer>
-        <disclaimer lang="nl_NL">Geen iTunes vereist!</disclaimer>
-        <disclaimer lang="pl_PL">Nie wymaga iTunes!</disclaimer>
-        <disclaimer lang="pt_PT">O iTunes não é necessário!</disclaimer>
-        <disclaimer lang="pt_BR">iTunes não é necessário!</disclaimer>
-        <disclaimer lang="sv_SE">Ingen iTunes krävs!</disclaimer>
-        <disclaimer lang="tr_TR">iTunes gerekli değil!</disclaimer>
-        <disclaimer lang="zh_CN">不需要iTunes！</disclaimer>
     </extension>
 </addon>
